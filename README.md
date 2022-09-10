@@ -2,7 +2,7 @@
 - 👀 I’m interested in tech
 - 🌱 I’m currently learning Machine learning algorithms
 - 💞️ I’m looking to collaborate on python collab projects
-- 📫 How to reach me via nandhank602@hmail.com
+- 📫 How to reach me via nandhank602@gmail.com
 
 <!---
 Nandhu2k3/Nandhu2k3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
